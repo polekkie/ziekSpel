@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BestuurbaarDing
+comment0.text=\r\n\ class\ BestuurbaarDing\ -\ geef\ hier\ een\ beschrijving\ van\ deze\ class\r\n\r\n\ @author\ (jouw\ naam)\r\n\ @version\ (versie\ nummer\ of\ datum)\r\n
+comment1.params=x\ y\ v\ plaatje
+comment1.target=BestuurbaarDing(int,\ int,\ float,\ java.awt.Image)
+comment2.params=o
+comment2.target=void\ registreer(Omgeving)
+comment3.params=links\ rechts\ boven\ beneden
+comment3.target=void\ defineerToetsen(int,\ int,\ int,\ int)
+comment4.params=stap
+comment4.target=void\ beweeg(float)
+comment5.params=g
+comment5.target=void\ teken(java.awt.Graphics2D)
+numComments=6
