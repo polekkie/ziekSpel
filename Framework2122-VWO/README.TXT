@@ -4,9 +4,9 @@ Vertel je lezer (iemand die niets weet over dit project) alles wat hij of
 zij moet weten. Vermeld minstens de volgende dingen:
 ------------------------------------------------------------------------
 
-Naam van het project:
+Naam van het project: 
 Doel van het project:
 Ontwerpers: (jouw naam)
-Versie of datum:
+Versie of datum: 3 November 2022
 Hoe je dit project kunt starten:
 Gebruiksaanwijzing:
