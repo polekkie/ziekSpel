@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * @version (V.1.0)
  * 
  * Deze klasse mag je NIET veranderen
- * 
+ * Hutsieflutsie hutsie hutsie
  */
 public class Beweeg{
     private ArrayList<KanBewegen> beweegLijst;
