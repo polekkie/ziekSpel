@@ -5,13 +5,13 @@ import javax.swing.JFrame;
 import java.util.ArrayList;
 
 /**
- * Deze klasse hutsie hutsie hutsie
+ * 
  *
- * @author (E.E. Koldenhof)
+ * @author (...)
  * @version (V.1.0)
  * 
  * Deze klasse mag je NIET veranderen
- * Hutsieflutsie hutsie hutsie
+ * 
  */
 public class Beweeg{
     private ArrayList<KanBewegen> beweegLijst;
